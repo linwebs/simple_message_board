@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81a825e7-ffd8-40f0-8f07-7e8aad72daa8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/phpMyAdmin/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="127.0.0.1" id="4f7041d9-9962-48c3-bc9d-41014442f354" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1:80" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpmyadmin/twig-i18n-extension" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/composer" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/williamdes/mariadb-mysql-kbs" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/samyoul/u2f-php-server" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/expression-language" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1f00BeAA2pb1Hac3IacpTYQlyav" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simple_message_board" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/simple_message_board" />
+      <recent name="$PROJECT_DIR$/simple_message_board/view/user" />
+      <recent name="$PROJECT_DIR$/simple_message_board/view/show" />
+      <recent name="$PROJECT_DIR$/20200801/files" />
+      <recent name="$PROJECT_DIR$/20200801/include_func" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/simple_message_board/view/note" />
+      <recent name="$PROJECT_DIR$/simple_message_board/database" />
+      <recent name="$PROJECT_DIR$/simple_message_board/view/show" />
+      <recent name="$PROJECT_DIR$/20200801/files/file/dire" />
+      <recent name="$PROJECT_DIR$/20200801/files/file/dire/linwebs" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="localhsot (PHP Web Pa...)" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="localhsot" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" editBeforeRun="true" server_name="localhost">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81a825e7-ffd8-40f0-8f07-7e8aad72daa8" name="Default Changelist" comment="" />
+      <created>1595339568721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595339568721</updated>
+      <workItem from="1595339570504" duration="6118000" />
+      <workItem from="1595521184035" duration="17000" />
+      <workItem from="1595521226420" duration="14000" />
+      <workItem from="1595522743366" duration="5515000" />
+      <workItem from="1595608735384" duration="6015000" />
+      <workItem from="1595698912205" duration="3604000" />
+      <workItem from="1595764104852" duration="3224000" />
+      <workItem from="1595774541840" duration="27000" />
+      <workItem from="1595775278162" duration="1996000" />
+      <workItem from="1596179999719" duration="46000" />
+      <workItem from="1596180080022" duration="17702000" />
+      <workItem from="1596247539617" duration="12127000" />
+      <workItem from="1596293353397" duration="3681000" />
+      <workItem from="1596698545777" duration="1645000" />
+      <workItem from="1597479790781" duration="9000" />
+      <workItem from="1603468455552" duration="39000" />
+      <workItem from="1603505955555" duration="6069000" />
+      <workItem from="1603517154971" duration="11548000" />
+      <workItem from="1606486777928" duration="40000" />
+      <workItem from="1606486833625" duration="608000" />
+      <workItem from="1606528571654" duration="58000" />
+      <workItem from="1609490463528" duration="102000" />
+      <workItem from="1620902377249" duration="1761000" />
+      <workItem from="1620971318081" duration="10793000" />
+      <workItem from="1621047817652" duration="36000" />
+      <workItem from="1622097847436" duration="1971000" />
+      <workItem from="1622188834383" duration="31000" />
+      <workItem from="1625117039499" duration="1355000" />
+      <workItem from="1625203364486" duration="60000" />
+      <workItem from="1625203452558" duration="7007000" />
+      <workItem from="1625211440116" duration="1008000" />
+      <workItem from="1625212596543" duration="21000" />
+      <workItem from="1625302851088" duration="85000" />
+      <workItem from="1625380516781" duration="1129000" />
+      <workItem from="1625820131186" duration="66000" />
+      <workItem from="1625820220635" duration="779000" />
+      <workItem from="1625841730264" duration="23000" />
+      <workItem from="1625844860425" duration="136000" />
+      <workItem from="1625850595948" duration="429000" />
+      <workItem from="1626341470828" duration="6102000" />
+      <workItem from="1626351659440" duration="17477000" />
+      <workItem from="1626409870894" duration="15039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/simple_message_boards" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/20200721/session_get.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
