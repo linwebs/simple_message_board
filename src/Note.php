@@ -100,7 +100,7 @@ class Note {
 		$id = $db->add_note($content, $user);
 
 		if ($id > 0) {
-			header('Location: ' . $config['pre_url']);
+			header('Location: ' . (($config['pre_url'])?($config['pre_url']):('/')));
 			return '新增成功';
 		} else if($id == -2) {
 			$_SESSION['add_note_msg'] = '留言內容過長';

@@ -53,7 +53,7 @@ class User {
 				$_SESSION['user']['id'] = $user_info['id'];
 				$_SESSION['user']['name'] = $user_info['name'];
 				$_SESSION['user']['account'] = $user_info['account'];
-				header('Location: ' . $config['pre_url']);
+				header('Location: ' . (($config['pre_url'])?($config['pre_url']):('/')));
 				return '登入成功';
 			}
 
@@ -95,7 +95,7 @@ class User {
 			$_SESSION['user']['id'] = $id;
 			$_SESSION['user']['name'] = htmlspecialchars($name);
 			$_SESSION['user']['account'] = $account;
-			header('Location: ' . $config['pre_url']);
+			header('Location: ' . (($config['pre_url'])?($config['pre_url']):('/')));
 			return '註冊成功';
 		} else if($id == -1) {
 			$_SESSION['register_msg'] = '使用者已存在';
@@ -150,7 +150,7 @@ class User {
 		unset($_SESSION['user']['name']);
 		unset($_SESSION['user']['account']);
 
-		header('Location: ' . $config['pre_url']);
+		header('Location: ' . (($config['pre_url'])?($config['pre_url']):('/')));
 		return '登出';
 	}
 }

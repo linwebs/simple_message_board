@@ -30,6 +30,11 @@ class Bootstrap {
 		if (!is_file($config_path)) {
 			if (substr($_SERVER['REQUEST_URI'], strlen($_SERVER['REQUEST_URI']) - strlen('/initialization'), strlen('/initialization')) == '/initialization') {
 				$config['pre_url'] = substr($_SERVER['REQUEST_URI'], 0, strlen($_SERVER['REQUEST_URI']) - strlen('/initialization'));
+
+				if(empty($config['pre_url'])) {
+					$config['pre_url'] = $_SERVER['HTTP_HOST'];
+				}
+
 				$html['content'] = Init::init();
 				require_once __DIR__ . '/../view/init/index.php';
 			} else {
