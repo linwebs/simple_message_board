@@ -1,4 +1,4 @@
-# 簡易留言版 - 嘉大資工課外自學讀書會
+# 簡易留言板 - 嘉大資工課外自學讀書會
 Author: [Linwebs](https://linwebs.tw/about)
 
 ## 功能
