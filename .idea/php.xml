@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpmyadmin/twig-i18n-extension" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/composer" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/williamdes/mariadb-mysql-kbs" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/samyoul/u2f-php-server" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/phpMyAdmin/vendor/symfony/expression-language" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>

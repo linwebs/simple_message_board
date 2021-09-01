@@ -93,7 +93,7 @@ class Init {
 
 		$config = include __DIR__ . '/../config.php';
 
-		$column = array('pre_url', 'website_title', 'anonymous', 'db_host', 'db_port', 'db_name', 'db_user_name',
+		$column = array('website_title', 'anonymous', 'db_host', 'db_port', 'db_name', 'db_user_name',
 			'db_user_password');
 
 		foreach ($column as $item) {
